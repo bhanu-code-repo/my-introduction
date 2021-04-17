@@ -9,3 +9,9 @@ If you found value value in something i have created, please feel free to give m
 [![Linkedin Badge](https://img.shields.io/badge/-Bhanu%20Pratap%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bpst/)](https://www.linkedin.com/in/bpst/) [![Gmail Badge](https://img.shields.io/badge/-bpst.work-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:bpst.work@gmail.com)](mailto:bpst.work@gmail.com) 
 
 ## Skill Set :muscle:
+These are some of the major technologies that I use or have worked on in the past:
+
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|
