@@ -11,7 +11,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/node-js-3-1174937.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-3521774-2945272.png">|<img title="Java" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/java-60-1174953.png">
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C,C++" alt="C,C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">|<img title="NodeJS" alt="NodeJS" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/node-js-3-1174937.png">|<img title="TypeScript" alt="TypeScript" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/typescript-3521774-2945272.png">|<img title="Java" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/java-60-1174953.png">
 |--|--|--|--|--|--|
 
 **Libraries and Frameworks**
@@ -27,8 +27,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3628940-3030165.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/sqlite-282687.png"> <br>
+|--|--|--|--|
 
 **Tools**
 
