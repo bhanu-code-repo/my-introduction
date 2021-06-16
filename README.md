@@ -28,7 +28,7 @@ These are some of the major technologies that I use or have worked on in the pas
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/mysql-3628940-3030165.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png">|<img title="SQLite" alt="SQLite" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/sqlite-282687.png">|<img title="Redis" alt="Redis" width="40px" src="https://cdn.iconscout.com/icon/free/png-64/redis-6-1175105.png"> <br>
-|--|--|--|--|
+|--|--|--|--|--|
 
 **Tools**
 
