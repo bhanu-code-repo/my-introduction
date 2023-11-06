@@ -1,6 +1,6 @@
 <h1>Hi There, I am <a  href="https://www.linkedin.com/in/bpst/">Bhanu Pratap Singh</a> <img  src="https://github.com/bhanu-code-repo/my-introduction/blob/main/wave.gif" width="30px"></h1>
 
-I am currently working as a system engineer [@Boeing](https://www.boeing.com/). I am a data science enthusiast & an open-source advocate. I am looking for bringing more path breaking deep learning solution and algorithms for real world problems. I have a passion for learning and sharing my knowledge with others.
+I am currently working as a software engineer [@Airbus](). I am a data science enthusiast & an open-source advocate. I am looking for bringing more path breaking deep learning solution and algorithms for real world problems. I have a passion for learning and sharing my knowledge with others.
 If you found value in something i have created, please feel free to give me a shout out [@TheBhanuThakur](https://twitter.com/TheBhanuThakur) or write an email to me. Feel free to reach out in case you want to just get in touch.
 
 ## Let's Connect :handshake:
